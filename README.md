@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Challateja12345/Portfolio](https://challateja12345.github.io/Portfolio/)
 
-- 💬 Ask me about **AWS Cloud, MERN**
+- 💬 Ask me about **AWS Cloud, MERN Stack**
 
-- 📫 How to reach me **chdtnvprasad@gmail.com**
+- 📫 How to reach me **chdtnvprasad@gmail.com, +91 9347807981**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
